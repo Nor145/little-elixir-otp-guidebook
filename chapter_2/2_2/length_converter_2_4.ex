@@ -12,3 +12,11 @@ defmodule MeterToLengthConverter do
   end
 end
 
+# or
+
+# defmodule MeterToLengthConverter.Feet do
+#   def convert(m) do
+#     m * 3.28084
+#   end  
+# end
+
